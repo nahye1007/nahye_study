@@ -25,7 +25,7 @@ public class Human{
    
    //리턴타입은 String, 함수명은 name2
    public String name2(){
-      String name2 = "김나혜2"//변수는 코드블록 안에서만 사용, 지역변수
+      String name2 = "김나혜2";//변수는 코드블록 안에서만 사용, 지역변수
       return name2;
             
    }
@@ -38,7 +38,7 @@ public class Human{
    }
    
    //김나혜4
-   public String name3(){
+   public String name4(){
       name = "김나혜4";
       return name;
    }
