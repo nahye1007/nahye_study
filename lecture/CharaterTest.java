@@ -1,3 +1,5 @@
+package lecture;
+
 public class CharaterTest {
     public static void main(String[] args) {
         char ch1 = 'A';

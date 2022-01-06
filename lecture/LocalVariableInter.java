@@ -1,3 +1,5 @@
+package lecture;
+
 public class LocalVariableInter {
     public static void main(String[] args) {
 
